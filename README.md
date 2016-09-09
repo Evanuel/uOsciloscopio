@@ -1,5 +1,5 @@
 # uOsciloscopio
-Osciloscópio baseado no Arduino Uno, usando um display OLED 0.96", Trigger, Estabilização, Voltímetro, Frequencímetro e Operação 300VAC
+Osciloscópio baseado no Arduino Uno, usando um display OLED 0.96", Trigger, Estabilização, Voltímetro, Frequencímetro e Operação 300AC/DC
 
 Todos os Arquivos será postado aqui em breve!
 Projeto pronto, elaborando todos layout, códigos para serem postados.
